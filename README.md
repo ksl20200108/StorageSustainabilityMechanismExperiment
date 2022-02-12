@@ -1,4 +1,4 @@
-## IncentiveChain
+## Storage Sustainability Mechanism
 
 > *A demo for testing a new bitcoin mechanism using docker swarm with clustered cloud instances.*
 > 
